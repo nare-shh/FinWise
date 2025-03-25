@@ -13,11 +13,16 @@ key features
 tax optimization 
 return filing
 ai provered tax chatbot
+
 TECH STACK
+
 react js
+
 fastapi
+
 Groq API for AI-powered tax assistance
 Using the "llama-3.3-70b-versatile" model
+
 output:
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/dd58188e-3706-4f77-aa3d-e864feebb7bc" />
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/2ec1ccdd-8dbe-4bc7-9d96-52c6bc45636a" />
